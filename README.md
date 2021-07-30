@@ -10,4 +10,6 @@ NLP Project made as a part of the SmartBridge Externship program. The backend is
     <li> Have a working internet connection
 </ul>
 
-Link to Video Presentation: https://drive.google.com/drive/folders/1QLoAo7TgN5G5WQDr6Z-1enUuBTAjUjzs?usp=sharing
+Link to Video Presentation: https://drive.google.com/drive/folders/1QLoAo7TgN5G5WQDr6Z-1enUuBTAjUjzs?usp=sharing  
+
+Link to Feedback/Testimonial Video: https://drive.google.com/drive/folders/1B0oG5ZdEb4OkhM2dFVsYb3L_lcWcXosm?usp=sharing
